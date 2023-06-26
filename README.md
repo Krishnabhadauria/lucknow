@@ -4,7 +4,7 @@ This is a website promoting the city of Lucknow, situated in India. It showcases
 
 ## Live Demo
 
-You can check out the live demo of the website [here](https://example.com).
+You can check out the live demo of the website [here](https://krishnabhadauria.github.io/lucknow/).
 
 ## Features
 
